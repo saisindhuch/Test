@@ -1,0 +1,17 @@
+ORD001|John Smith|Laptop|2|999.99|2024-03-15
+ORD002|John Smith|Mouse|3|19.99|2024-03-16
+ORD003|John Smith|Monitor|1|299.99|2024-03-18
+ORD004|Asha Rao|Desk|1|450.00|2024-03-10
+ORD005|Asha Rao|Chair|2|175.00|2024-03-12
+ORD006|Asha Rao|Standing Lamp|1|89.50|2024-03-14
+ORD007|Ravi Kumar|Phone|1|799.00|2024-03-20
+ORD008|Ravi Kumar|Case|2|25.00|2024-03-20
+ORD009|Ravi Kumar|Charger|1|35.00|2024-03-21
+ORD010|Meera Iyer|Headphones|1|120.00|2024-03-11
+ORD011|Meera Iyer|Tablet|1|550.00|2024-03-13
+ORD012|Meera Iyer|Stylus|2|29.99|2024-03-13
+ORD013|Carlos Diaz|TV|1|1200.00|2024-03-22
+ORD014|Carlos Diaz|HDMI Cable|4|12.50|2024-03-22
+ORD015|Carlos Diaz|Soundbar|1|399.99|2024-03-23
+ORD016|Carlos Diaz|Soundbar|1|399.99|2024-0323
+ORD017|Carlos Diaz|Soundbar|-1|399.99|2024-0323
